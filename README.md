@@ -4,15 +4,16 @@ program that can price a cart of products, accept multiple products, combine off
 
 the solution:
 i wrote a program that enable the user to select the currency s/he wants and inputs the quantity s/he wants then get the bill wich contains the subtotal , taxses, available discounts,and the total price after adding the taxes and subtracting the total amount of discount based on the selected currency.
-
+ 
  
 Running Application:
-
-1-Open the Command Prompt
-2-Change the Directory to the Project's Path
-3-write the following Command line 
+1-open the "onlineshopping.sql" file and run the script to create the database
+2-open the Cred.php file and change the database configuration accoarding to yours
+3-Open the Command Prompt
+4-Change the Directory to the Project's Path
+5-write the following Command line 
 	php -S localhost:1234/index.php (or any available port)
-4-Open the link and start your trial   
+6-Open the link and start your trial   
 
 
 -description of the exist files:
